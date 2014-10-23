@@ -15,3 +15,8 @@ Instruccions
 
 Compile the module with the makefile included. Then, load it to the kernel.<br/>
 Compile your program and play it. Easy piece!
+
+Tortilla?
+=========
+
+The comments, name of variables and functions are in Spanish. If you have trouble to understand it, I can do an English version. Just ask for it!
