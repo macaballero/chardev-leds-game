@@ -1,7 +1,7 @@
 Welcome to chardev-leds-game!
 ====================================
 
-This an implementation of a character device for linux kernel, created to take control of your keyboard leds. You can play with my five proposed modes. It's very simple to use so if you like it try to do your own designs!
+This is an implementation of a character device for linux kernel, created to take control of your keyboard leds. You can play with my five proposed modes. It's very simple to use so if you like it try to do your own designs!
 
 Files
 =====
