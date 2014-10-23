@@ -10,7 +10,7 @@ Files
 -chardev_leds.c: module.<br/>
 -leds_user.c: sample program.<br/>
 
-Instruccions
+Instructions
 ============
 
 Compile the module with the makefile included. Then, load it to the kernel.<br/>
